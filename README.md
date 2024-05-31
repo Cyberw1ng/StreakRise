@@ -17,8 +17,8 @@ StreakRise is designed to help users develop and maintain daily habits by provid
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/streakrise.git
-    cd streakrise
+    git clone https://github.com/Cyberw1ng/StreakRise.git
+    cd streakRise
     ```
 
 2. **Install dependencies**:
@@ -39,21 +39,6 @@ StreakRise is designed to help users develop and maintain daily habits by provid
 3. **Complete a Routine**:
     - Click the "Complete" button next to the routine once it is done.
     - The button will be disabled if the routine is already completed for the day or the current time is past the routine's time.
-
-## How to Run
-
-1. **Ensure you have Python 3.x installed**. You can download it from [python.org](https://www.python.org/).
-
-2. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/streakrise.git
-    cd streakrise
-    ```
-
-3. **Run the application**:
-    ```sh
-    python streakrise.py
-    ```
 
 ## Files
 
