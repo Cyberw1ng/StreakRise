@@ -11,7 +11,7 @@ StreakRise is a Python-based desktop GUI application built with Tkinter that hel
 
 ## About
 
-StreakRise is designed to help users develop and maintain daily habits by providing a simple and intuitive interface for managing routines. The application aims to motivate users through the concept of streaks, encouraging them to complete their routines consistently. Temporary routines allow flexibility for short-term goals.
+StreakRise is designed to help users develop and maintain daily habits by providing a simple and intuitive interface for managing routines. The application aims to motivate users through the concept of streaks 🔥, encouraging them to complete their routines consistently. Temporary routines allow flexibility for short-term goals.
 
 ## Installation
 
@@ -33,7 +33,7 @@ StreakRise is designed to help users develop and maintain daily habits by provid
 
 2. **Add a Routine**:
     - Click the "Add Routine" button.
-    - Enter the routine name and time (in HH:MM format).
+    - Enter the routine name and time (in HH: MM format).
     - Specify if the routine is temporary and, if so, provide the end date (in YYYY-MM-DD format).
 
 3. **Complete a Routine**:
