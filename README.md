@@ -1,6 +1,6 @@
 # StreakRise
 
-StreakRise is a Python-based desktop application built with Tkinter that helps you manage and track your daily routines and habits. It allows you to add routines, mark them as complete, and maintain streaks for consistency. The app also supports temporary routines that expire after a specified end date.
+StreakRise is a Python-based desktop GUI application built with Tkinter that helps you manage and track your daily routines and habits. It allows you to add routines, mark them as complete, and maintain streaks for consistency. The app also supports temporary routines that expire after a specified end date.
 
 ## Features
 
